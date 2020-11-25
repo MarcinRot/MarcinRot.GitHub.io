@@ -1,11 +1,17 @@
 body {
   background-image: url("BG.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
   background-position: center;
 }
 
-.div {
-  left: 265px;
+.container
+.monkey {
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+  bottom: 1px;
 }
 /*# sourceMappingURL=Style.css.map */
